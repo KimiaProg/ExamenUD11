@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Manejo de Conexiones Compartidas",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Manejo de Conexiones Individuales",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Login",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Inserta Persona",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test04",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Consulta Tienda",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test05",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Inserta Personas",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test06",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Crea Tabla",
+      "setup": "",
+      "run": "./gradlew test --tests MainTest.test07",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    }
+  ]
+}

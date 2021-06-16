@@ -1,0 +1,24 @@
+negocio/vo/Especialidad.java
+ negocio.vo.Especialidad
+negocio/vo/TableDescriptor.java
+ negocio.vo.TableDescriptor
+persistencia/dao/impl/ExamenImpl.java
+ persistencia.dao.impl.ExamenImpl
+negocio/vo/Empleado.java
+ negocio.vo.Empleado
+persistencia/dao/ExamenDAO.java
+ persistencia.dao.ExamenDAO
+negocio/vo/Persona.java
+ negocio.vo.Persona
+negocio/vo/Tienda.java
+ negocio.vo.Tienda
+persistencia/dao/impl/GenericDAOImpl.java
+ persistencia.dao.impl.GenericDAOImpl
+presentacion/Main.java
+ presentacion.Main
+negocio/vo/RowType.java
+ negocio.vo.RowType
+negocio/vo/User.java
+ negocio.vo.User
+negocio/vo/RowDescriptor.java
+ negocio.vo.RowDescriptor
